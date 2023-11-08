@@ -10,9 +10,10 @@ h2,
 h3,
 h4,
 ul,
+a,
 p{
   margin: 0px;
-  margin: 0px;
+  padding: 0px;
 }
 
 ul{
@@ -33,3 +34,4 @@ img{
 img[src$=".jpg"]{
   border-radius: 4px;
 }
+

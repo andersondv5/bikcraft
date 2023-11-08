@@ -22,8 +22,7 @@
 }
 
 .introducao img{
-  height: 100%;
-  object-fit: cover;
+ object-fit: cover;
   border-radius: 4px;
 }
 
@@ -42,8 +41,6 @@
   font-size: 24px;
   line-height: 1.5;
 }
-
-
 
 @media (max-width: 800px){
   .introducao-bg{
