@@ -27,4 +27,6 @@
 
 /* Páginas internas */
 
-@import "./termos/termos.css"
+@import "./termos/termos.css";
+@import "./bicicletas/bicicletas.css"
+
