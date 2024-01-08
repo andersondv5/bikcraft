@@ -10,7 +10,7 @@
 }
 
 .botao {
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 600;
   display: inline-block;
   padding: 16px 32px;
@@ -30,6 +30,7 @@
 }
 
 .botao.secundario{
+  font-family: 'Poppins', sans-serif;
   background: var(--cor-10);
   color: var(--cor-2);
 }
